@@ -1,1 +1,3 @@
-# LeetCode_JS
+# Leet Code Js
+
+## Solve Leet Code Problem with Javascript
